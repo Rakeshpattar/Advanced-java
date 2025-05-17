@@ -45,3 +45,5 @@
 3c_string_NumericCheck o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_NumericCheck.png)
 
 3c_string_RandomStringGenerator o/p :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_RandomStringGenerator.png)
+
+3c_string_WordCounter o/p :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_WordCounter.png)
