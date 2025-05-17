@@ -41,3 +41,5 @@
 3c_string_CapitalizeWords o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_%20CapitalizeWords.png)
 
 3c_string_TruncateString o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_%20TruncateString.png)
+
+3c_string_NumericCheck o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_NumericCheck.png)
