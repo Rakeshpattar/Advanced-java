@@ -22,4 +22,8 @@
 
 1b_Linkedlist_LinkedListSwap o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20Linkedlist_LinkedListSwap.png)
 
-2a_StringOperationsDemo.java o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20%20stringoperationsDemo.png)
+2a_StringOperationsDemo o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20%20stringoperationsDemo.png)
+
+2b_ StringPerformanceTest o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20stringperformancetest.png)
+
+
