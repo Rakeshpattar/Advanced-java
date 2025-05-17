@@ -38,3 +38,4 @@
 
 3b_string_RemoveWhitespace o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_RemoveWhitespace.png)
 
+3c_string_ CapitalizeWords o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20string_%20CapitalizeWords.png)
