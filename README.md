@@ -15,3 +15,5 @@
 1b_Linkedlist_LinkedListIterationExample o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20%20Linkedlist_LinkedListIterationExample.png)
 
 1b_Linkedlist_ReverseLinkedListIteration o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%201b_linkedlist_ReverseLinkedListIteration.png)
+
+1b_Linkedlist_InsertAtEndUsingOfferLast o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20Linkedlist_InsertAtEndUsingOfferLast.png)
