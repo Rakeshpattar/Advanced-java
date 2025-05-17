@@ -19,3 +19,5 @@
 1b_Linkedlist_InsertAtEndUsingOfferLast o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20Linkedlist_InsertAtEndUsingOfferLast.png)
 
 1b_Linkedlist_ LinkedListDisplay o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20Linkedlist_LinkedListDisplay.png)
+
+1b_Linkedlist_LinkedListSwap o/p link :-(https://github.com/Rakeshpattar/Advanced-java/blob/main/Screenshot%20Linkedlist_LinkedListSwap.png)
